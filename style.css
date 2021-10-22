@@ -1,0 +1,20 @@
+form.chat{
+	background: #000;
+	position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+	height: 10%;
+	width: 100%;
+	display: inline-block;
+    vertical-align: middle;
+}
+input.box{
+	border-radius: 10px;
+	width: 80%;
+	margin-top:10px;
+	
+}
+button.del{
+	visibility: hidden;
+}
